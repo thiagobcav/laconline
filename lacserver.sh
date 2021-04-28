@@ -22,6 +22,6 @@ echo '${RED}Criando Configurações do servidor$'
 sudo mv ServerConfig.txt /root/.config/unity3d/MA/LAC;
 
 echo '${RED}Editando Configurações do servidor$'
-sudo cd; rm lacserver.sh
+sudo cd; rm LAC_Linux_v1.5.8.zip; rm lacserver.sh;
 
 echo '${RED}Fim da configuração$'
